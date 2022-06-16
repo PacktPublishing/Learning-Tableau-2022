@@ -1,0 +1,4 @@
+Name	Occupation	Bank Account Balance
+Watto	Junk Dealer	$9,000
+Darth Maul	Face Painter	$10,000
+Jar Jar	Sith Lord	-$100,000

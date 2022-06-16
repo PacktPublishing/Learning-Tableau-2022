@@ -1,0 +1,6 @@
+Location	Avg. Minutes to Service Goal
+Inpatient Surgery	30
+Outpatient Surgery	40
+ICU	30
+OBGYN	25
+Lab	120

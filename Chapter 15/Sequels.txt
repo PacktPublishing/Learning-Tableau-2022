@@ -1,0 +1,4 @@
+Name	Occupation	Bank Account Balance
+Rey	Scavenger	$600
+Poe	Pilot	$30,000
+Kylo 	Unemployed	$0
