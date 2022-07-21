@@ -1,0 +1,4 @@
+Name	Occupation	Bank Account Balance
+Luke	Farmer	$2,000
+Leia	Princess	$50,000
+Han	Smuggler	-$20,000

@@ -1,0 +1,11 @@
+Patient ID	Patient Name	Admit Date	Discharge Date
+1	David	12/1/2018	12/20/2018
+2	Solomon	12/3/2018	12/7/2018
+3	Asa	12/5/2018	12/22/2018
+4	Jehoshaphat	12/5/2018	12/6/2018
+5	Joash	12/9/2018	12/16/2018
+6	Amaziah	12/10/2018	12/14/2018
+7	Uzziah	12/12/2018	12/24/2018
+8	Jotham	12/16/2018	12/29/2018
+9	Hezekiah	12/18/2018	12/22/2018
+10	Josiah	12/22/2018	12/23/2018
