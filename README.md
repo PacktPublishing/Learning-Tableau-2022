@@ -30,3 +30,7 @@ Learning-Tableau-2022, Fifth Edition-published by Packt.
 * Extend Tableau’s native functionality with extensions, scripts, and AI through CRM Analytics (formerly Einstein Analytics)
 * Leverage Tableau Prep Builder’s amazing capabilities for data cleaning and structuring
 * Share your data stories to build a culture of trust and action
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801072328">https://packt.link/free-ebook/9781801072328 </a> </p>
