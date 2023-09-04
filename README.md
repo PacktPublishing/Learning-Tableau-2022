@@ -8,7 +8,7 @@ Learning-Tableau-2022, Fifth Edition-published by Packt.
 <table class="noBorder">
   <tr>
     <td width="50%" height="50%"> 
-      <img src="https://github.com/PacktPublishing/Learning-Tableau-2022/blob/main/cover.png?raw=true">
+      <img src="https://github.com/PacktPublishing/Learning-Tableau-2022/blob/main/Cover.png?raw=true">
     </td>
     <td valign="top">
       <H2>Key Features</H2>
